@@ -1,6 +1,6 @@
 #player,#player a{ color:#fff; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
-#player .mainImage{ background:url(main.png); }
+#player .mainImage{ background:url(scmbg.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
